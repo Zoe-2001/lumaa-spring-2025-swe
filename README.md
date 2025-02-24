@@ -7,16 +7,16 @@ A full-stack task management application built with **Node.js (Express, Sequeliz
 ## 🛠 Setup Instructions
 
 - Install **PostgreSQL**
-- Create a database:  
+- Create a database by openning the PostgreSQL shell using ```psql -U postgres```
   ```sql
   CREATE DATABASE lumaa_task_manager;
   ```
+- You can verify by listing databases using ```\l```
 - The environment variables are all in the .env files
 - Run Migrations & Seed data:
   ```bash
   cd backend
   npm run migrate
-  npm run seed
   ```
 - Run backend
   ```
