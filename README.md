@@ -1,4 +1,8 @@
-# Lumaa Task Manager
+# Lumaa Full-Stack Coding Challenge
+
+Participant: Yuchen(Mandy) Dai
+
+Email: yuchenda@andrew.cmu.edu
 
 A full-stack task management application built with **Node.js (Express, Sequelize, PostgreSQL) for the backend** and **React (TypeScript, TailwindCSS) for the frontend**.
 
